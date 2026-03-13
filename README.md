@@ -60,21 +60,6 @@ This the scenrio of the web app which is using HTML to PDF generator script and 
 
 <a href="https://github.com/incredibleindishell/SSRF_Vulnerable_Lab/blob/master/www/pdf_generator/">Guide to Exploitation of Scenario 6</a>
 
-Ofcourse,<br><b>--==[[ With Love From IndiShell ]]==--</b> <img src="https://web.archive.org/web/20140704135452/freesmileys.org/smileys/smiley-flag010.gif">
-
-
-
---==[[ Greetz To ]]==--
-
-	Guru ji zero, Code breaker ICA, root_devil, google_warrior, INX_r0ot, Darkwolf indishell, Baba,
-	Silent poison India, Magnum sniper, ethicalnoob Indishell, Reborn India, L0rd Crus4d3r, cool toad,
-	Hackuin, Alicks, mike waals, cyber gladiator, Cyber Ace, Golden boy INDIA, d3, rafay baloch, nag256
-	Ketan Singh, AR AR, saad abbasi, Minhal Mehdi, Raj bhai ji, Hacking queen, lovetherisk, D2, Bikash Dash and rest of the Team INDISHELL
-
---==[[Love to]]==--
-
-	My Father, my Ex Teacher, Lovey, cold fire hacker, Mannu, ViKi, Ashu bhai ji, Soldier Of God, Bhuppi, Gujjar PCP
-	Mohit, Ffe, Shardhanand, Budhaoo, Hacker fantastic, Jennifer Arcuri, Thecolonial, Anurag Bhai Ji and Don(Deepika kaushik)
 
 
 ## Docker
